@@ -1,0 +1,55 @@
+{
+  "name":"fbevents",
+  "browserExe":"C:\\_\\_Run\\_Portable.Data\\.Chrome\\Run\\GoogleChromePortable.exe",
+  "user1":{
+    "username":"",
+    "password":"",
+    "proxy":"", 
+    "userdirectory":"user1"
+    },
+  "groups":[
+    {"name":"All-about-Swing-in-Athens", "url":"https://www.facebook.com/pg/All-about-Swing-in-Athens-project-122988665024183/events/?ref=page_internal"},
+    {"name":"AthensBoogie", "url":"https://www.facebook.com/pg/AthensBoogie/events/?ref=page_internal"},
+    {"name":"AthensLindyHopSwingDancing" , "url":"https://www.facebook.com/pg/AthensLindyHopSwingDancing/events/?ref=page_internal"},
+    {"name":"Athensretrofestival", "url":"https://www.facebook.com/pg/athensretrofestival/events/?ref=page_internal"},
+    {"name":"AthensSwingCatsDanceCompany" , "url":"https://www.facebook.com/pg/AthensSwingCatsDanceCompany/events/?ref=page_internal"},
+    {"name":"athenstapjam" , "url":"https://www.facebook.com/pg/athenstapjam/events/?ref=page_internal"},
+    {"name":"Hirollers.GR" , "url":"https://www.facebook.com/pg/Hirollers-162920690531580/events/?ref=page_internal"},
+    {"name":"IliasAndTheNotoriousTroupe" , "url":"https://www.facebook.com/pg/IliasAndTheNotoriousTroupe/events/?ref=page_internal"},
+    {"name":"jazzreactor" , "url":"https://www.facebook.com/pg/jazzreactor/events/?ref=page_internal"},
+    {"name":"Jeswingquartet" , "url":"https://www.facebook.com/pg/Jeswingquartet/events/?ref=page_internal"},
+    {"name":"johnnyrumbleandthelaw4000" , "url":"https://www.facebook.com/pg/johnnyrumbleandthelaw4000/events/?ref=page_internal"},
+    {"name":"JumpJiveAthensSwingTeam" , "url":"https://www.facebook.com/pg/JumpJiveAthensSwingTeam/events/?ref=page_internal"},
+    {"name":"RhythmHoppers" , "url":"https://www.facebook.com/pg/RhythmHoppers/events/?ref=page_internal"},
+    {"name":"rollin.foxes" , "url":"https://www.facebook.com/pg/rollin.foxes/events/?ref=page_internal"},
+    {"name":"speakeasies" , "url":"https://www.facebook.com/pg/speakeasies/events/?ref=page_internal"},
+    {"name":"SwingarooZ" , "url":"https://www.facebook.com/pg/SwingarooZ/events/?ref=page_internal"},
+    {"name":"swingthatthingathens" , "url":"https://www.facebook.com/pg/swingthatthingathens/events/?ref=page_internal"},
+    {"name":"The.Jitterbugs.gr" , "url":"https://www.facebook.com/pg/The.Jitterbugs.gr/events/?ref=page_internal"},
+    {"name":"TheBulletsGr" , "url":"https://www.facebook.com/pg/TheBulletsGr/events/?ref=page_internal"},
+    {"name":"thehousebandproject" , "url":"https://www.facebook.com/pg/thehousebandproject/events/?ref=page_internal"},
+    {"name":"themadcatss" , "url":"https://www.facebook.com/pg/themadcatss/events/?ref=page_internal"},
+    {"name":"TheStoryvilleRagtimers" , "url":"https://www.facebook.com/pg/TheStoryvilleRagtimers/events/?ref=page_internal"},
+    {"name":"TheSwingouts" , "url":"https://www.facebook.com/pg/TheSwingouts/events/?ref=page_internal"},
+    {"name":"TOLIS.rockabillyboogies" , "url":"https://www.facebook.com/pg/rockabillyboogies/events/?ref=page_internal"},
+    {"name":"welovehobnob" , "url":"https://www.facebook.com/pg/welovehobnob/events/?ref=page_internal"}
+  ],
+
+  "groups2Personal":[
+	{"name":"athensauthenticjazzdance" , "url":"https://www.facebook.com/groups/athensauthenticjazzdance/events/?ref=page_internal"},
+    {"name":"Blue.Fox" , "url":"https://www.facebook.com/pg/bluefox.athens/events/?ref=page_internal"},
+    {"name":"bluefox.athens" , "url":"https://www.facebook.com/pg/bluefox.athens/events/?ref=page_internal"},
+    {"name":"Hirollers.GR" , "url":"https://www.facebook.com/Hirollers.GR/events?lst=692709022%3A100001551536864%3A1546498071"},
+    {"name":"Kiriakos.Karatzas" , "url":"https://www.facebook.com/kiriakos.karatzas/events?lst=692709022%3A100000346501403%3A1547910175"},
+    {"name":"konstantinos.daskagiannis " , "url":"https://www.facebook.com/konstantinos.daskagiannis/events?lst=692709022%3A748509130%3A1546713292"},
+    {"name":"SteamRollers" , "url":"https://www.facebook.com/profile.php?id=100007043431982&lst=692709022%3A100007043431982%3A1546180273&sk=events"},
+    {"name":"steamrollers.rnr" , "url":"https://www.facebook.com/groups/steamrollers.rnr/events/"},
+    {"name":"TOLIS.gianneas" , "url":"https://www.facebook.com/tolis.gianneas/events?lst=692709022%3A100006580149342%3A1547139028"}
+
+  ],
+  
+  "groupsLogin":[
+    {"name":"" , "url":""}
+  ] 
+
+}
